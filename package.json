@@ -4,10 +4,10 @@
   "description": "A command line application that uses Google Books API to search for books and construct a reading list",
   "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "bin": {
-    "hello": "./bin/index.js"
+    "books-cli": "./bin/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/kroy94/books-cli/issues"
   },
-  "homepage": "https://github.com/kroy94/books-cli#readme"
+  "homepage": "https://github.com/kroy94/books-cli#readme",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "dependencies": {
+    "axios": "^1.2.1",
+    "yargs": "^17.6.2"
+  }
 }

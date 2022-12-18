@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+.DS_Store?
+._*
+*.pem
+
+# local env files
+.env*.local
+
+# Ignore all debug, logfiles and tempfiles.
+npm-debug.log*
+*.log
+/log
+**/tmp/*
+*/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore JS dist
+/public/packs
+/public/packs-test
+
