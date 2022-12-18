@@ -1,0 +1,22 @@
+{
+  "name": "books-cli",
+  "version": "1.0.0",
+  "description": "A command line application that uses Google Books API to search for books and construct a reading list",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kroy94/books-cli.git"
+  },
+  "author": "Kelsey Roy https://github.com/kroy94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kroy94/books-cli/issues"
+  },
+  "homepage": "https://github.com/kroy94/books-cli#readme"
+}
