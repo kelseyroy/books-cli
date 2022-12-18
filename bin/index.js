@@ -1,15 +1,14 @@
 #!/usr/bin/env node
+
 const yargs = require("yargs");
+const search = require('../lib/commands/search');
 
-const options = yargs
-    .usage("Usage: -s <search>")
-    .option("s", { alias: "search", describe: "Search term", type: "string", demandOption: true })
-    .argv;
 
-if (options.search) {
-    console.log(`Searching for books with keyword ${options.search}...`)
-} else {
-    console.log("Enter a search term after -s to search for a book!");
-}
+const viewReadingList = () => console.log('READING LIST')
 
-// module.exports = gettingSetup;
+const argv = yargs
+    .usage('Usage: $0 <cmd> [options]')
+    .command('search', 'use inquirer to prompt for your name', () => { }, search)
+    .command('view', 'a classic yargs command without prompting', () => { }, viewReadingList)
+    .demandCommand(1, 1, 'choose a command: search or view')
+    .help('h').argv;
