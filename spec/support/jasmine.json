@@ -8,6 +8,7 @@
   ],
   "env": {
     "stopSpecOnExpectationFailure": false,
+    "seed": null,
     "random": true
   }
 }
