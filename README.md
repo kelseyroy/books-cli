@@ -1,15 +1,16 @@
 # books-cli
-Create a command line application that allows you to use the Google Books API to search for books and construct a reading list. Completed as part of the 8th Light Technical Assessment.
+Create a command line application that allows you to use the Google Books API to search for books and construct a reading list. Completed by Kelsey Roy as part of the 8th Light Technical Assessment.
 
 ## Setup
 1. [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local computer.
-2. Use your terminal to navigate into your new books-cli folder and install project dependencies by running <code>npm i</code>
+2. Use your terminal to navigate into your new books-cli folder and install project dependencies by running <code>npm i</code>.
 3. To install the script globally, try running <code>npm install -g .</code> from within the books-cli folder. Now you should be able to run the books-cli script from anywhere in your terminal!
-4. If you want to uninstall the books-cli script, run <code>npm uninstall -g hello-cli</code>
+4. If you want to uninstall the books-cli script, run <code>npm uninstall -g hello-cli</code>.
 
 ## Start
 
 To access the command line program, start by by typing the command <code>books-cli</code> into your terminal. A command menu should display a list of the available commands! This menu can also be access by typing <code>books-cli -h</code>. The commands available to you include:
+
 <img width="570" alt="Screenshot 2022-12-22 at 3 54 21 PM" src="https://user-images.githubusercontent.com/89801075/209224085-f65b456a-b6d3-4539-a9fb-9b54ecf3b372.png">
 
 ### <code>books-cli search</code>
