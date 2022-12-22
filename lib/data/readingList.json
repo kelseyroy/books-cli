@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "5GbdTc9OJ78C",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Wordsworth Editions"
+  },
+  {
+    "id": "mx1xDwAAQBAJ",
+    "title": "Jane Austen's Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Penguin"
+  }
+]

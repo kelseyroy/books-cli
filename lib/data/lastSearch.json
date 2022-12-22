@@ -1,43 +1,43 @@
 [
   {
-    "id": "9K6TDgAAQBAJ",
-    "title": "The Complete Novels of Jane Austen",
+    "id": "5GbdTc9OJ78C",
+    "title": "Pride and Prejudice",
     "authors": [
       "Jane Austen"
     ],
-    "publisher": "Chartwell Books"
+    "publisher": "Wordsworth Editions"
   },
   {
-    "id": "YACCAwAAQBAJ",
-    "title": "Persuasion",
+    "id": "4O4kxQEACAAJ",
+    "title": "Pride & Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Fingerprint Classics"
+  },
+  {
+    "id": "U7NvDwAAQBAJ",
+    "title": "Pride and Prejudice and Zombies",
     "authors": [
       "Jane Austen",
-      "Deidre Lynch"
+      "Seth Grahame-Smith"
     ],
-    "publisher": "Oxford University Press"
+    "publisher": "Quirk Books"
   },
   {
-    "id": "pEc6yLJ2szgC",
-    "title": "Lost in Austen",
+    "id": "mx1xDwAAQBAJ",
+    "title": "Jane Austen's Pride and Prejudice",
     "authors": [
-      "Emma Campbell Webster"
+      "Jane Austen"
     ],
     "publisher": "Penguin"
   },
   {
-    "id": "pdSjxgEACAAJ",
-    "title": "Jane Austen Boxed Set",
+    "id": "1m9b-G7csR0C",
+    "title": "Pride and Prejudice",
     "authors": [
       "Jane Austen"
     ],
-    "publisher": "Canterbury Classics"
-  },
-  {
-    "id": "3gDP8kq561wC",
-    "title": "Jane Austen's Letters",
-    "authors": [
-      "Jane Austen"
-    ],
-    "publisher": "Oxford University Press"
+    "publisher": "Harvard University Press"
   }
 ]
