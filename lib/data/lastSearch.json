@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "5GbdTc9OJ78C",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Wordsworth Editions"
+  },
+  {
+    "id": "4O4kxQEACAAJ",
+    "title": "Pride & Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Fingerprint Classics"
+  },
+  {
+    "id": "J1FnDwAAQBAJ",
+    "title": "The Originals: Pride anf Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Om Books International"
+  },
+  {
+    "id": "U7NvDwAAQBAJ",
+    "title": "Pride and Prejudice and Zombies",
+    "authors": [
+      "Jane Austen",
+      "Seth Grahame-Smith"
+    ],
+    "publisher": "Quirk Books"
+  },
+  {
+    "id": "-wbsJX9r7WAC",
+    "title": "Pride & Prejudice",
+    "authors": [
+      "Jennifer Adams"
+    ],
+    "publisher": "Gibbs Smith"
+  }
+]
