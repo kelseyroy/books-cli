@@ -5,7 +5,7 @@ Create a command line application that allows you to use the Google Books API to
 1. [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local computer.
 2. Use your terminal to navigate into your new books-cli folder and install project dependencies by running <code>npm i</code>.
 3. To install the script globally, try running <code>npm install -g .</code> from within the books-cli folder. Now you should be able to run the books-cli script from anywhere in your terminal!
-4. If you want to uninstall the books-cli script, run <code>npm uninstall -g hello-cli</code>.
+4. If you want to uninstall the books-cli script, run <code>npm uninstall -g books-cli</code>.
 
 ## Start
 
