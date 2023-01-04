@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "4O4kxQEACAAJ",
+    "title": "Pride & Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Fingerprint Classics"
+  },
+  {
+    "id": "J1FnDwAAQBAJ",
+    "title": "The Originals: Pride anf Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publisher": "Om Books International"
+  }
+]

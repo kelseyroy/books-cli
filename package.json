@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A command line application that uses Google Books API to search for books and construct a reading list",
   "main": "bin/index.js",
-  "type": "module",
   "scripts": {
     "test": "jasmine"
   },

@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 const yargs = require("yargs");
 const {search, list, save} = require('../lib/commands')
 
