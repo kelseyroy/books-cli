@@ -11,7 +11,8 @@ Create a command line application that allows you to use the Google Books API to
 
 To access the command line program, start by typing the command <code>books-cli</code> into your terminal. A command menu should display a list of the available commands! This menu can also be access by typing <code>books-cli -h</code>. The commands available to you include:
 
-<img width="570" alt="Screenshot 2022-12-22 at 3 54 21 PM" src="https://user-images.githubusercontent.com/89801075/209224085-f65b456a-b6d3-4539-a9fb-9b54ecf3b372.png">
+<img width="589" alt="Screenshot 2023-01-05 at 12 37 13 PM" src="https://user-images.githubusercontent.com/89801075/210844676-e50677e1-92cc-4d1f-b757-61edb3f3fd50.png">
+
 
 ### <code>books-cli search</code>
 The search command will prompt the user to input specific search terms/parameters to narrow down their search! The search terms include:
