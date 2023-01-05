@@ -26,12 +26,12 @@ The results of your last search are saved temporarily to your local files.
 <img width="839" alt="Screenshot 2022-12-22 at 3 52 49 PM" src="https://user-images.githubusercontent.com/89801075/209223857-0c50f023-5b74-4ca5-b07f-8188492b5311.png">
 
 ### <code>books-cli save</code>
-After you have completed a search, using the save command will prompt the user to use a checklist to select books from their previous search. Users can navigate the checklist using their up/down arrows. Users can make multiple selections using the space bar and once they've finished compiling their list, they can press enter to receive a message confirming that the book(s) have been to their reading list.
+After you have completed a search, using the save command will prompt the user to use a checklist to select books from their previous search. Users can navigate the options using their up/down arrows and they can press enter to receive a message confirming that the book(s) have been to their reading list. ctrl+c or escape allows the users to exit the menu anytime.
 
 <img width="878" alt="Screenshot 2022-12-22 at 3 53 37 PM" src="https://user-images.githubusercontent.com/89801075/209224147-da0a5f24-50e7-4e27-b2be-5d23bf132a8a.png">
 
 ### <code>books-cli list</code>
-The list command will print a user's reading list to the console.
+The list command will print a user's reading list to the console. ctrl+c allows the users to exit the list anytime.
 
 <img width="504" alt="Screenshot 2022-12-22 at 4 00 24 PM" src="https://user-images.githubusercontent.com/89801075/209225144-3fd0d9e5-a91c-419c-90f2-f457169a14dd.png">
 
