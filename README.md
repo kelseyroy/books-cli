@@ -41,9 +41,9 @@ The list command will print a user's reading list to the console. ctrl+c allows 
 ### <code>books-cli version</code>
 The version command will display the current version of the books-cli program.
 
-## Stretch Goals
-* Successfully utilizing tests using the Jasmine framework
+## New Stretch Goals
+* Adding more tests for outputs using the Jasmine Framework
 * Successfully utilizing axios-mock-adapter for testing
-* Improving on error handling functionality
+* Adding specific error handling functions
   * Check and warn the user if a book has already been added to their reading list
 * Adding the ability to delete or edit books on reading list
