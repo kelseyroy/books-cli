@@ -29,7 +29,7 @@ The results of your last search are saved temporarily to your local files.
 ### <code>books-cli save</code>
 After you have completed a search, using the save command will prompt the user to use a checklist to select books from their previous search. Users can navigate the options using their up/down arrows and they can press enter to receive a message confirming that the book(s) have been to their reading list. ctrl+c or escape allows the users to exit the menu anytime.
 
-![Recording 2023-01-05 at 12 28 29](https://user-images.githubusercontent.com/89801075/210843158-d3a23f89-55ca-495a-b77f-701b1e36a467.gif)
+![Recording 2023-01-05 at 12 36 02](https://user-images.githubusercontent.com/89801075/210844524-d550bb6f-2de4-499b-a1af-d4763e2eef01.gif)
 
 
 ### <code>books-cli list</code>
