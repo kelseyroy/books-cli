@@ -2,9 +2,11 @@
   "name": "books-cli",
   "version": "1.0.0",
   "description": "A command line application that uses Google Books API to search for books and construct a reading list",
+  "type": "module",
   "main": "bin/index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "build": "babel src -d lib"
   },
   "bin": {
     "books-cli": "./bin/index.js"
