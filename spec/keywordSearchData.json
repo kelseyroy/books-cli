@@ -1,276 +1,270 @@
-{
-    "kind": "books#volumes",
-    "totalItems": 2836,
-    "items": [
-      {
-        "kind": "books#volume",
-        "id": "xVeMCgAAQBAJ",
-        "etag": "YKJkANS9NEo",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/xVeMCgAAQBAJ",
-        "volumeInfo": {
-          "title": "Pride and Prejudice",
-          "authors": [
-            "Jane Austen"
-          ],
-          "publisher": "Courier Corporation",
-          "publishedDate": "1995-01-01",
-          "description": "In early nineteenth-century England, a spirited young woman copes with the suit of a snobbish gentleman, as well as the romantic entanglements of her four sisters.",
-          "readingModes": {
-            "text": false,
-            "image": true
-          },
-          "maturityRating": "NOT_MATURE",
-          "allowAnonLogging": true,
-          "contentVersion": "1.6.1.0.preview.1",
-          "panelizationSummary": {
-            "containsEpubBubbles": false,
-            "containsImageBubbles": false
-          },
-          "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=xVeMCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=xVeMCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-          },
-          "previewLink": "http://books.google.com/books?id=xVeMCgAAQBAJ&printsec=frontcover&dq=pride+prejudice&hl=&cd=1&source=gbs_api",
-          "infoLink": "http://books.google.com/books?id=xVeMCgAAQBAJ&dq=pride+prejudice&hl=&source=gbs_api",
-          "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=xVeMCgAAQBAJ"
-        },
-        "saleInfo": {
-          "country": "US"
-        },
-        "accessInfo": {
-          "country": "US",
-          "epub": {
-            "isAvailable": false
-          },
-          "pdf": {
-            "isAvailable": true,
-            "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice-sample-pdf.acsm?id=xVeMCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-          },
-          "accessViewStatus": "SAMPLE"
-        },
-        "searchInfo": {
-          "textSnippet": "In early nineteenth-century England, a spirited young woman copes with the suit of a snobbish gentleman, as well as the romantic entanglements of her four sisters."
-        }
+[
+  {
+    "kind": "books#volume",
+    "id": "DDoEEAAAQBAJ",
+    "etag": "JZPDFIrMqVk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DDoEEAAAQBAJ",
+    "volumeInfo": {
+      "title": "The Great Gatsby",
+      "authors": [
+        "F. Scott Fitzgerald"
+      ],
+      "publisher": "Scribner",
+      "publishedDate": "2020-11-17",
+      "description": "A deluxe trade paperback edition of The Great Gatsby, a true classic of 20th-century literature and one of America’s best-loved and iconic novels. This edition of The Great Gatsby has been updated by F. Scott Fitzgerald scholar James L.W. West III to include the author’s final revisions and features a note on the composition and text, a personal foreword by Fitzgerald’s granddaughter, Eleanor Lanahan—and an introduction by two-time National Book Award winner Jesmyn Ward. Featuring the iconic original cover art and French flaps, this is a must-have for all Gatsby fans. The Great Gatsby, Fitzgerald’s third book, stands as the supreme achievement of his career. First published in 1925, this quintessential novel of the Jazz Age has been acclaimed by generations of readers. The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” it is an exquisitely crafted tale of America in the 1920s.",
+      "readingModes": {
+        "text": false,
+        "image": false
       },
-      {
-        "kind": "books#volume",
-        "id": "U7NvDwAAQBAJ",
-        "etag": "G93jtCfCZXQ",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/U7NvDwAAQBAJ",
-        "volumeInfo": {
-          "title": "Pride and Prejudice and Zombies",
-          "authors": [
-            "Jane Austen",
-            "Seth Grahame-Smith"
-          ],
-          "publisher": "Quirk Books",
-          "publishedDate": "2009-03-01",
-          "description": "The New York Times best seller is now a major motion picture starring Lily James and Sam Riley, with Matt Smith, Charles Dance, and Lena Headey. Complete with romance, heartbreak, swordfights, cannibalism, and thousands of rotting corpses, Pride and Prejudice and Zombies is an audacious retelling of English literature’s most enduring novel. This expanded edition of the beloved Jane Austen novel featuring all-new scenes of bone-crunching zombie mayhem begins when a mysterious plague falls upon the quiet English village of Meryton—and the dead are returning to life! Feisty heroine Elizabeth Bennet is determined to wipe out the zombie menace, but she’s soon distracted by the arrival of the haughty and arrogant Mr. Darcy. What ensues is a delightful comedy of manners with plenty of civilized sparring between the two young lovers—and even more violent sparring on the blood-soaked battlefield. It’s the perfect read for literature lovers, zombie fans, and anyone who loves a reanimated Austen.",
-          "readingModes": {
-            "text": false,
-            "image": true
-          },
-          "maturityRating": "NOT_MATURE",
-          "allowAnonLogging": false,
-          "contentVersion": "preview-1.0.0",
-          "panelizationSummary": {
-            "containsEpubBubbles": false,
-            "containsImageBubbles": false
-          },
-          "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=U7NvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=U7NvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-          },
-          "previewLink": "http://books.google.com/books?id=U7NvDwAAQBAJ&printsec=frontcover&dq=pride+prejudice&hl=&cd=2&source=gbs_api",
-          "infoLink": "http://books.google.com/books?id=U7NvDwAAQBAJ&dq=pride+prejudice&hl=&source=gbs_api",
-          "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_and_Zombies.html?hl=&id=U7NvDwAAQBAJ"
-        },
-        "saleInfo": {
-          "country": "US"
-        },
-        "accessInfo": {
-          "country": "US",
-          "epub": {
-            "isAvailable": false
-          },
-          "pdf": {
-            "isAvailable": true,
-            "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice_and_Zombies-sample-pdf.acsm?id=U7NvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-          },
-          "accessViewStatus": "SAMPLE"
-        },
-        "searchInfo": {
-          "textSnippet": "This expanded edition of the beloved Jane Austen novel featuring all-new scenes of bone-crunching zombie mayhem begins when a mysterious plague falls upon the quiet English village of Meryton—and the dead are returning to life!"
-        }
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
       },
-      {
-        "kind": "books#volume",
-        "id": "4O4kxQEACAAJ",
-        "etag": "cZNh2E29JC0",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/4O4kxQEACAAJ",
-        "volumeInfo": {
-          "title": "Pride & Prejudice",
-          "authors": [
-            "Jane Austen"
-          ],
-          "publisher": "Fingerprint Classics",
-          "publishedDate": "2018",
-          "description": "Elizabeth Bennett's early determination to dislike Mr. Darcy is a prejudice only matched by his arrogant pride.",
-          "readingModes": {
-            "text": false,
-            "image": false
-          },
-          "maturityRating": "NOT_MATURE",
-          "allowAnonLogging": false,
-          "contentVersion": "preview-1.0.0",
-          "panelizationSummary": {
-            "containsEpubBubbles": false,
-            "containsImageBubbles": false
-          },
-          "previewLink": "http://books.google.com/books?id=4O4kxQEACAAJ&dq=pride+prejudice&hl=&cd=3&source=gbs_api",
-          "infoLink": "http://books.google.com/books?id=4O4kxQEACAAJ&dq=pride+prejudice&hl=&source=gbs_api",
-          "canonicalVolumeLink": "https://books.google.com/books/about/Pride_Prejudice.html?hl=&id=4O4kxQEACAAJ"
-        },
-        "saleInfo": {
-          "country": "US"
-        },
-        "accessInfo": {
-          "country": "US",
-          "epub": {
-            "isAvailable": false
-          },
-          "pdf": {
-            "isAvailable": false
-          },
-          "accessViewStatus": "NONE"
-        },
-        "searchInfo": {
-          "textSnippet": "Elizabeth Bennett&#39;s early determination to dislike Mr. Darcy is a prejudice only matched by his arrogant pride."
-        }
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=DDoEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=DDoEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
       },
-      {
-        "kind": "books#volume",
-        "id": "c4gpV1UQuf8C",
-        "etag": "VFSkAUnuYdQ",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/c4gpV1UQuf8C",
-        "volumeInfo": {
-          "title": "The Annotated Pride and Prejudice",
-          "subtitle": "A Revised and Expanded Edition",
-          "authors": [
-            "Jane Austen",
-            "David M. Shapard"
-          ],
-          "publisher": "Anchor",
-          "publishedDate": "2012-11-13",
-          "description": "This Revised and Expanded Edition contains hundreds of new notes and illustrations. The first-ever fully annotated edition of one of the most beloved novels in the world is a sheer delight for Jane Austen fans. Here is the complete text of Pride and Prejudice with thousands of annotations on facing pages, including: • Explanations of historical context Rules of etiquette, class differences, the position of women, legal and economic realities, leisure activities, and more. • Citations from Austen’s life, letters, and other writings Parallels between the novel and Austen’s experience are revealed, along with writings that illuminate her beliefs and opinions. • Definitions and clarifications Archaic words, words still in use whose meanings have changed, and obscure passages are explained. • Literary comments and analyses Insightful notes highlight Austen’s artistry and point out the subtle ways she develops her characters and themes. • Maps and illustrations of places and objects mentioned in the novel. • An introduction, a bibliography, and a detailed chronology of events Of course, one can enjoy the novel without knowing the precise definition of a gentleman, or what it signifies that a character drives a coach rather than a hack chaise, or the rules governing social interaction at a ball, but readers of The Annotated Pride and Prejudice will find that these kinds of details add immeasurably to understanding and enjoying the intricate psychological interplay of Austen’s immortal characters.",
-          "readingModes": {
-            "text": false,
-            "image": false
-          },
-          "maturityRating": "NOT_MATURE",
-          "allowAnonLogging": false,
-          "contentVersion": "0.1.0.0.preview.0",
-          "panelizationSummary": {
-            "containsEpubBubbles": false,
-            "containsImageBubbles": false
-          },
-          "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=c4gpV1UQuf8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=c4gpV1UQuf8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-          },
-          "previewLink": "http://books.google.com/books?id=c4gpV1UQuf8C&printsec=frontcover&dq=pride+prejudice&hl=&cd=4&source=gbs_api",
-          "infoLink": "http://books.google.com/books?id=c4gpV1UQuf8C&dq=pride+prejudice&hl=&source=gbs_api",
-          "canonicalVolumeLink": "https://books.google.com/books/about/The_Annotated_Pride_and_Prejudice.html?hl=&id=c4gpV1UQuf8C"
-        },
-        "saleInfo": {
-          "country": "US"
-        },
-        "accessInfo": {
-          "country": "US",
-          "epub": {
-            "isAvailable": false
-          },
-          "pdf": {
-            "isAvailable": false
-          },
-          "accessViewStatus": "SAMPLE"
-        },
-        "searchInfo": {
-          "textSnippet": "Here is the complete text of Pride and Prejudice with thousands of annotations on facing pages, including: • Explanations of historical context Rules of etiquette, class differences, the position of women, legal and economic realities, ..."
-        }
+      "previewLink": "http://books.google.com/books?id=DDoEEAAAQBAJ&printsec=frontcover&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=DDoEEAAAQBAJ&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby.html?hl=&id=DDoEEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US"
+    },
+    "accessInfo": {
+      "country": "US",
+      "epub": {
+        "isAvailable": false
       },
-      {
-        "kind": "books#volume",
-        "id": "yvjDDAAAQBAJ",
-        "etag": "MI7GWqAU+fQ",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/yvjDDAAAQBAJ",
-        "volumeInfo": {
-          "title": "Pride and Prejudice : Om Illustrated Classics",
-          "subtitle": "",
-          "authors": [
-            "Jane Austen"
-          ],
-          "publisher": "Om Books International",
-          "description": "Pride and Prejudice traces the life of the Bennet sisters in the Victorian times. It addresses ideas of morality, social standing of women, class divide and its idiosyncrasies through the experiences of Elizabeth Bennet, the second daughter of Mr and Mrs Bennet. All is calm and quiet in Longbourne until the summer when the mild-mannered Mr Bingley and his uptight friend Mr Darcy rent the nearby estate of Netherfield Park. Mr Bingley falls instantly for the shy, sensitive Jane, the eldest of the five Bennet girls, but sparks fly when Elizabeth and Mr Darcy meet. And so enters love, and with it comes turmoil into their young lives. Will Jane and Mr Bingley get together, despite their social differences? Will Elizabeth look beyond her first impressions of Mr Darcy? How will their choices affect their future as well as that of their sisters? This classic novel answers all this as Jane Austen skilfully weaves various themes that were quintessential to the lives of the landed gentry in early 19th century England.",
-          "readingModes": {
-            "text": false,
-            "image": true
-          },
-          "maturityRating": "NOT_MATURE",
-          "allowAnonLogging": false,
-          "contentVersion": "1.2.0.0.preview.1",
-          "panelizationSummary": {
-            "containsEpubBubbles": false,
-            "containsImageBubbles": false
-          },
-          "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=yvjDDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=yvjDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-          },
-          "previewLink": "http://books.google.com/books?id=yvjDDAAAQBAJ&printsec=frontcover&dq=pride+prejudice&hl=&cd=5&source=gbs_api",
-          "infoLink": "https://play.google.com/store/books/details?id=yvjDDAAAQBAJ&source=gbs_api",
-          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yvjDDAAAQBAJ"
-        },
-        "saleInfo": {
-          "country": "US",
+      "pdf": {
+        "isAvailable": false
+      },
+      "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+      "textSnippet": "This edition of The Great Gatsby has been updated by F. Scott Fitzgerald scholar James L.W. West III to include the author’s final revisions and features a note on the composition and text, a personal foreword by Fitzgerald’s ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "eo8jQwAACAAJ",
+    "etag": "KNY8Usa4i7I",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/eo8jQwAACAAJ",
+    "volumeInfo": {
+      "title": "The Great Gatsby",
+      "authors": [
+        "Anne Crow",
+        "F. Scott Fitzgerald"
+      ],
+      "publisher": "Hodder Education",
+      "publishedDate": "2010",
+      "description": "Written by experienced A-level examiners and teachers who know exactly what students need to succeed, and edited by a chief examiner, Philip Allan Literature Guides (for A-Level) are invaluable study companions with exam-specific advice to help you to get the grade you need. Packed with useful material to boost your chances of success, the Philip Allan Literature Guides provide a synopsis plus detailed chapter/scene summaries, followed by sections on themes, characters, form, structure and language and contexts. In addition, a dedicated Working with the text section offers students as much information as possible about how to write about texts for coursework and controlled assessment as well as help in preparing for exams. There is also a full explanation of the Assessment Objectives and skills, and a range of examples and exercises to demonstrate exactly what you need to do to achieve a top grade.",
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=eo8jQwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=eo8jQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "previewLink": "http://books.google.com/books?id=eo8jQwAACAAJ&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=eo8jQwAACAAJ&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby.html?hl=&id=eo8jQwAACAAJ"
+    },
+    "saleInfo": {
+      "country": "US"
+    },
+    "accessInfo": {
+      "country": "US",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "accessViewStatus": "NONE"
+    },
+    "searchInfo": {
+      "textSnippet": "In addition, a dedicated Working with the text section offers students as much information as possible about how to write about texts for coursework and controlled assessment as well as help in preparing for exams."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "iZg0EAAAQBAJ",
+    "etag": "VqqV9bh7W+I",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/iZg0EAAAQBAJ",
+    "volumeInfo": {
+      "title": "The Great Gatsby",
+      "authors": [
+        "F. Scott Fitzgerald"
+      ],
+      "publisher": "First Avenue Editions ™",
+      "publishedDate": "2021-08-01",
+      "description": "After moving to Long Island, New York, narrator Nick Carraway visits his cousin, Daisy Buchanan, and her husband, Tom. The Buchanans live lives of luxury, contrasting with Carraway's modest lifestyle. Carraway also meets his rich, mysterious neighbor, Jay Gatsby. Gatsby throws lavish parties for the well-to-do and famous. Carraway learns that Gatsby has loved Daisy Buchanan for years, and Gatsby hopes his parties will lead to a reunion. First published in 1925, this unabridged edition of The Great Gatsby compares new wealth to generational, inherited wealth and illuminates a cross section of American society in the 1920s.",
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.3.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=iZg0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=iZg0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "previewLink": "http://books.google.com/books?id=iZg0EAAAQBAJ&printsec=frontcover&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=iZg0EAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iZg0EAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "listPrice": {
+        "amount": 3.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 3.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=iZg0EAAAQBAJ&rdid=book-iZg0EAAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
           "listPrice": {
-            "amount": 0.99,
+            "amountInMicros": 3990000,
             "currencyCode": "USD"
           },
           "retailPrice": {
-            "amount": 0.99,
+            "amountInMicros": 3990000,
             "currencyCode": "USD"
           },
-          "buyLink": "https://play.google.com/store/books/details?id=yvjDDAAAQBAJ&rdid=book-yvjDDAAAQBAJ&rdot=1&source=gbs_api",
-          "offers": [
-            {
-              "finskyOfferType": 1,
-              "listPrice": {
-                "amountInMicros": 990000,
-                "currencyCode": "USD"
-              },
-              "retailPrice": {
-                "amountInMicros": 990000,
-                "currencyCode": "USD"
-              },
-              "giftable": true
-            }
-          ]
-        },
-        "accessInfo": {
-          "country": "US",
-          "epub": {
-            "isAvailable": false
-          },
-          "pdf": {
-            "isAvailable": true,
-            "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice_Om_Illustrated_Class-sample-pdf.acsm?id=yvjDDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-          },
-          "accessViewStatus": "SAMPLE"
-        },
-        "searchInfo": {
-          "textSnippet": "This classic novel answers all this as Jane Austen skilfully weaves various themes that were quintessential to the lives of the landed gentry in early 19th century England."
+          "giftable": true
         }
-      }
-    ]
+      ]
+    },
+    "accessInfo": {
+      "country": "US",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Great_Gatsby-sample-epub.acsm?id=iZg0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Great_Gatsby-sample-pdf.acsm?id=iZg0EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+      "textSnippet": "First published in 1925, this unabridged edition of The Great Gatsby compares new wealth to generational, inherited wealth and illuminates a cross section of American society in the 1920s."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "dVlYzQEACAAJ",
+    "etag": "PusZscZ3ANA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/dVlYzQEACAAJ",
+    "volumeInfo": {
+      "title": "The Great Gatsby and Other Works",
+      "authors": [
+        "F. Scott Fitzgerald"
+      ],
+      "publisher": "Canterbury Classics",
+      "publishedDate": "2021-01-05",
+      "description": "Three of the great American novels by F. Scott Fitzgerald, the incomparable chronicler of the Jazz Age, are all together in one keepsake volume. F. Scott Fitzgerald wrote some of the most acclaimed novels of the 20th century, and literary scholars regard him as one of the finest American writers of all time. His stories were the stories of the “Lost Generation,” Americans who came of age after World War I, amid Prohibition and the rise of jazz, and who responded to the uncertainty and change of the time by living each day to the hilt. Included in this attractive, leather-bound volume of Fitzgerald’s most notable long-form works are tales of wealth, romance, and scandal: The Great Gatsby, This Side of Paradise, and The Beautiful and Damned. It’s a time capsule of America in the 1920s and 1930s.",
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=dVlYzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=dVlYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "previewLink": "http://books.google.com/books?id=dVlYzQEACAAJ&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=dVlYzQEACAAJ&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby_and_Other_Works.html?hl=&id=dVlYzQEACAAJ"
+    },
+    "saleInfo": {
+      "country": "US"
+    },
+    "accessInfo": {
+      "country": "US",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "accessViewStatus": "NONE"
+    },
+    "searchInfo": {
+      "textSnippet": "Three of the great American novels by F. Scott Fitzgerald, the incomparable chronicler of the Jazz Age, are all together in one keepsake volume."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Al4NEAAAQBAJ",
+    "etag": "42w0U9/Q3Io",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Al4NEAAAQBAJ",
+    "volumeInfo": {
+      "title": "The Great Gatsby",
+      "subtitle": "(Penguin Classics Deluxe Edition)",
+      "authors": [
+        "F. Scott Fitzgerald"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2021-01-05",
+      "description": "A must-have new edition of one of the great American novels--and one of America's most popular--featuring a new introduction by Min Jin Lee, the New York Times bestselling author of Pachinko, and a striking new cover that brings the quintessential novel of the Roaring Twenties into the 2020s A Penguin Classics Deluxe Edition Young, handsome, and fabulously rich, Jay Gatsby seems to have everything. But at his mansion east of New York City, in West Egg, Long Island, where the party never seems to end, he's often alone in the glittering Jazz Age crowd, watching and waiting, as speculation swirls around him--that he's a bootlegger, that he was a German spy during the war, that he even killed a man. As writer Nick Carraway is drawn into this decadent orbit, he begins to see beneath the shimmering surface of the enigmatic Gatsby, for whom one thing will always be out of reach: Nick's cousin, the married Daisy Buchanan, whose house is visible from Gatsby's just across the bay. A brilliant evocation of the Roaring Twenties and a satire of a postwar America obsessed with wealth and status, The Great Gatsby is a novel whose power remains undiminished after a century. This edition, based on scholarship dating back to the novel's first publication in 1925, restores Fitzgerald's masterpiece to the original American classic he envisioned, and features an introduction addressing how gender, race, class, and sexuality complicate the pursuit of the American Dream. For more than seventy-five years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 2,000 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Al4NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Al4NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "previewLink": "http://books.google.com/books?id=Al4NEAAAQBAJ&printsec=frontcover&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=Al4NEAAAQBAJ&dq=intitle:the+great+gatsby+inauthor:f+scott+fitzgerald&hl=&as_pt=BOOKS&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby.html?hl=&id=Al4NEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US"
+    },
+    "accessInfo": {
+      "country": "US",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+      "textSnippet": "This edition, based on scholarship dating back to the novel&#39;s first publication in 1925, restores Fitzgerald&#39;s masterpiece to the original American classic he envisioned, and features an introduction addressing how gender, race, class, and ..."
+    }
   }
+]
